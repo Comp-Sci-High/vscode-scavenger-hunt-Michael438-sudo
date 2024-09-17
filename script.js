@@ -1,5 +1,6 @@
-console.log("I should go at the end")
 
+console.log("I should go at the end")
+console.log("Breathe of the Wind")
 // Compliments about "Your Name"
 let compliments = [
     "Your Name is an absolute coding wizard!",
